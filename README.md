@@ -1,4 +1,4 @@
-I was given a website that had accessibility issues, it was my task to adhere to accessibility standards and make sure the web page followed a sematic structure.
+I was given a website that had accessibility issues, It was my task to adhere to accessibility standards and make sure the web page followed a sematic structure.
 I changed the HTML layout to adhere with the accessibility standards, changing alot of <div> to the correct eliments.
 I i re-structured the CSS to alighn with the HTML and also consolidated the selectors and properties aswel as adding comments to the CSS.
 I have commented all the CSS so i know what the CSS is doing should i have to go back to it.
