@@ -5,6 +5,8 @@ I have commented all the CSS so i know what the CSS is doing should i have to go
 I i fixed a broken link that would not connect to the given path.
 I have attatched an image of how the website should look and i have included the link to the website.
 
+https://dovahkiin1993.github.io/first-week-challenge/
+
  
  
  
