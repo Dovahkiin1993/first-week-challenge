@@ -25,7 +25,7 @@ body {
     color: #d9dcd6;
 }
 /*This is defining the position, type of font and font size of the header menu*/
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -34,7 +34,7 @@ body {
 }
 
 /*This is defining how the header menu will be displayed*/
-.header div ul li {
+.header nav ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
@@ -103,17 +103,17 @@ p {
     background-color: #2589bd;
 }
 /*This is defining the size and position of text and box's for the article-benefits class*/
-.article-benefits {
+.section-benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.article-benefits h3 {
+.section-benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.article-benefits img {
+.section-benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
